@@ -32,3 +32,6 @@ Na concepção do autor, para construir software, é necessário entender do neg
 Além disso, acredito que seria necessário um time com turnover baixíssimo, para que o conhecimento técnico e de negócio não se perca, ou um tempo bem dedicado a documentar esse processo de aprendizado do negócio.``
 
 ### Assimilando o conhecimento
+
+O capítulo é iniciado com um caso de uso, onde o desenvolvedor precisou construir um software para PCI.
+Para se comunicar com os engenheiros eletrônicos, o desenvolvedor precisou, conversar com os engenheiros e entender profundamente o funcionamento da placa para logo em seguida,traduzir os comportamentos necessários para o software.
