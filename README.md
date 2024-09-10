@@ -38,4 +38,4 @@ Para se comunicar com os engenheiros eletrônicos, o desenvolvedor precisou conv
 
 No processo de entendimento, ele utilizou diagramas e foi construindo seus modelos de dados.
 
-Além disso, para conseguir se comunicar de forma acertiva, foi fundamental que eles conseguisem falar a mesma lingua, que no caso, seria entender o necessário sobre os componentes de hardware que envolvem a PCI
+Além disso, para conseguir se comunicar de forma assertiva, foi fundamental que eles conseguisem falar a mesma lingua, que no caso, seria entender o necessário sobre os componentes de hardware que envolvem a PCI
