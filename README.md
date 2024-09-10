@@ -30,3 +30,5 @@ Na concepção do autor, para construir software, é necessário entender do neg
 
 ``NOTA: Isso realmente faz muito sentido, pensando em desenvolvedores mais experientes, que possam guiar os times tanto com a visão mais técnica, quanto com os conhecimentos de negócio, mas acho isso impraticável em ambientes sem equipes extremamente estruturadas.
 Além disso, acredito que seria necessário um time com turnover baixíssimo, para que o conhecimento técnico e de negócio não se perca, ou um tempo bem dedicado a documentar esse processo de aprendizado do negócio.``
+
+### Assimilando o conhecimento
