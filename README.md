@@ -42,3 +42,10 @@ Para se comunicar com os engenheiros eletrônicos, o desenvolvedor precisou conv
 No processo de entendimento, ele utilizou diagramas e foi construindo seus modelos de dados.
 
 Além disso, para conseguir se comunicar de forma assertiva, foi fundamental que eles conseguisem falar a mesma lingua, que no caso, seria entender o necessário sobre os componentes de hardware que envolvem a PCI
+
+
+#### *Extraindo um conceito oculto*
+
+O autor da um exemplo de domínio e explica que no momento da criação (ou modificação) do software, é ideal separar regras de negócio. Caso seja uma única regra que não possua variações, o simples ato de separar do resto do código, e nomea-la com a regra do domínio é extremamente importantre.
+
+E em casos onde essa regra possua muitas variações, talvez seja mais interessante utilizar o `design pattern Strategy`.
