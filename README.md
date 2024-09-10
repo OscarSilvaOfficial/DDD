@@ -33,6 +33,8 @@ Além disso, acredito que seria necessário um time com turnover baixíssimo, pa
 
 ### Assimilando o conhecimento
 
+#### *Os ingredientes de uma modelagem eficaz*
+
 O capítulo é iniciado com um caso de uso, onde o desenvolvedor precisou construir um software para PCI.
 Para se comunicar com os engenheiros eletrônicos, o desenvolvedor precisou conversar com os engenheiros e entender profundamente o funcionamento da placa para logo em seguida, traduzir os comportamentos necessários para o software.
 
