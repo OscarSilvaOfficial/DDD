@@ -34,6 +34,8 @@ Além disso, acredito que seria necessário um time com turnover baixíssimo, pa
 ### Assimilando o conhecimento
 
 O capítulo é iniciado com um caso de uso, onde o desenvolvedor precisou construir um software para PCI.
-Para se comunicar com os engenheiros eletrônicos, o desenvolvedor precisou, conversar com os engenheiros e entender profundamente o funcionamento da placa para logo em seguida,traduzir os comportamentos necessários para o software.
+Para se comunicar com os engenheiros eletrônicos, o desenvolvedor precisou conversar com os engenheiros e entender profundamente o funcionamento da placa para logo em seguida,traduzir os comportamentos necessários para o software.
 
 No processo de entendimento, ele utilizou diagramas e foi construindo seus modelos de dados.
+
+Além disso, para conseguir se comunicar de forma acertiva, foi fundamental que eles conseguisem falar a mesma lingua, que no caso, seria entender o necessário sobre os componentes de hardware que envolvem a PCI
