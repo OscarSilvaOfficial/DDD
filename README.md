@@ -1,4 +1,6 @@
-# Leitura do livro DDD
+# Leitura | Domain Driven Design
+
+![DDD image](./ddd.jpg)
 
 ## Descrição
 Aqui coloco o resumo da minha leitura sobre o livro DDD.
