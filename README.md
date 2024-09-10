@@ -24,4 +24,9 @@ Além disso, é criticado as metodologias de engenharia de software antecessoras
 
 ### Colocando o modelo de domínios em ação
 
-#### *A utilidade de um modelo no DDD*
+#### *O coração do software*
+
+Na concepção do autor, para construir software, é necessário entender do negócio em que está inserido, pois nele resida as maiores complexidades dentro de um sistema, portanto os desenvolvedores devem enteder muito bem se não for o negócio como um todo, pelo menos a parte em que está envolvido.
+
+``NOTA: Isso realmente faz muito sentido, pensando em desenvolvedores mais experientes, que possam guiar os times tanto com a visão mais técnica, quanto com os conhecimentos de negócio, mas acho isso impraticável em ambientes sem equipes extremamente estruturadas.
+Além disso, acredito que seria necessário um time com turnover baixíssimo, para que o conhecimento técnico e de negócio não se perca, ou um tempo bem dedicado a documentar esse processo de aprendizado do negócio.``
