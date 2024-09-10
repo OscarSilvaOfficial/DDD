@@ -14,6 +14,6 @@ No capítulo é citado que, a grande complexidade do software moderno não está
 
 ###  Design x Processo de desenvolvimento
 
-No capítulo, o autor começa com uma crítica, pelo fato que o engenheiros normalmente não entendo o momento de brigar para estabelecer certos conceitos de design, ou abrir mão deles, dado ao contexto que está vivendo
+No capítulo, o autor começa com uma crítica, pelo fato que o engenheiros normalmente não entendem o momento de brigar para estabelecer certos conceitos de design, ou abrir mão deles, dado ao contexto que estão vivendo
 
 ``NOTA: Realmente, isso é um problema na maioria dos desenvolvedores mais puristas``
