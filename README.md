@@ -49,3 +49,5 @@ Além disso, para conseguir se comunicar de forma assertiva, foi fundamental que
 O autor da um exemplo de domínio e explica que no momento da criação (ou modificação) do software, é ideal separar regras de negócio. Caso seja uma única regra que não possua variações, o simples ato de separar do resto do código, e nomea-la com a regra do domínio é extremamente importantre.
 
 E em casos onde essa regra possua muitas variações, talvez seja mais interessante utilizar o `design pattern Strategy`.
+
+#### *Comunicação e uso da linguagem*
