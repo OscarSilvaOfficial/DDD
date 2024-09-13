@@ -1,4 +1,4 @@
-# Leitura | Domain Driven Design
+# Leitura e Resumo | Domain Driven Design
 
 ![DDD image](./ddd.jpg)
 
