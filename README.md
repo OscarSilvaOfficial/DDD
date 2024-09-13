@@ -71,7 +71,9 @@ Modelos explanatórios são representações simplificadas de um domínio que aj
 1 - *Exemplo descritivo de modelo explanatório*
 
 ```
-Um exemplo de **modelo explanatório** no contexto do DDD poderia ser em um domínio de **sistema bancário**, onde o objetivo é facilitar a comunicação entre desenvolvedores e especialistas no domínio (nesse caso, talvez gerentes de banco ou analistas financeiros). Vamos imaginar uma funcionalidade de **transferência de dinheiro entre contas**.
+Um exemplo de **modelo explanatório** no contexto do DDD poderia ser em um domínio de **sistema bancário**,
+onde o objetivo é facilitar a comunicação entre desenvolvedores e especialistas no domínio (nesse caso, talvez gerentes de banco ou analistas financeiros).
+Vamos imaginar uma funcionalidade de **transferência de dinheiro entre contas**.
 
 ### Exemplo:
 
