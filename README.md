@@ -26,7 +26,6 @@ Além disso, é criticado as metodologias de engenharia de software antecessoras
 ### Colocando o modelo de domínios em ação
 
 #### *O coração do software*
-
 Na concepção do autor, para construir software, é necessário entender do negócio em que está inserido, pois nele resida as maiores complexidades dentro de um sistema, portanto os desenvolvedores devem enteder muito bem se não for o negócio como um todo, pelo menos a parte em que está envolvido.
 
 ``NOTA: Isso realmente faz muito sentido, pensando em desenvolvedores mais experientes, que possam guiar os times tanto com a visão mais técnica, quanto com os conhecimentos de negócio, mas acho isso impraticável em ambientes sem equipes extremamente estruturadas.
@@ -35,7 +34,6 @@ Além disso, acredito que seria necessário um time com turnover baixíssimo, pa
 ### Assimilando o conhecimento
 
 #### *Os ingredientes de uma modelagem eficaz*
-
 O capítulo é iniciado com um caso de uso, onde o desenvolvedor precisou construir um software para PCI.
 Para se comunicar com os engenheiros eletrônicos, o desenvolvedor precisou conversar com os engenheiros e entender profundamente o funcionamento da placa para logo em seguida, traduzir os comportamentos necessários para o software.
 
@@ -45,18 +43,19 @@ Além disso, para conseguir se comunicar de forma assertiva, foi fundamental que
 
 
 #### *Extraindo um conceito oculto*
-
 O autor da um exemplo de domínio e explica que no momento da criação (ou modificação) do software, é ideal separar regras de negócio. Caso seja uma única regra que não possua variações, o simples ato de separar do resto do código, e nomea-la com a regra do domínio é extremamente importantre.
 
 E em casos onde essa regra possua muitas variações, talvez seja mais interessante utilizar o `design pattern Strategy`.
 
 #### *Comunicação e uso da linguagem*
-
 Nesse capítulo é enfatizado a questão da liguagem e como usar nomes de negócios no planejamento da arquitetura (em diagramas, fluxogramas, e documentações em geral) e código pode fortalecer o conhecimento a respeitodas regras que envolvem o negócio, e mais importante ainda, diminuir os ruídos de comunicação entre negócio e desenvolvimento. Essa linguágem unificapa, chama-se **ubiquitous language**, ou *linguágem unipresente*.
 
 ``NOTA: Nas experiências que tive, um dos problemas que gerava mais confusão, relamente era a questão da comunicação e entendimento do negócio, então fazer o esforço de colocar a linguagem do negócio no código, para que no longo prazo o time esteja mais acostumado, realmente parece fazer muito sentido.``
 
 #### *Documentos e diagramas*
-
 Nessa sessão, o autor indica que usa diagramas para exemplificar o raciocínio. Normalmente usado de forma muito simples, para que seja fácil e rápido de entender.
 A função de um diagrama é, comunicar bem a sua idéia, então se esse papel for cumprido, está de ótimo tamanho.
+
+#### *Documentos de design escritos*
+Documentação é extremamente importante para um projeto, mas ao mesmo tempo, extremamente desafiadora, principalemte pelo fato da manutenção do software torna-la fácilmente obsoleta.
+
