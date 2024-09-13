@@ -71,24 +71,24 @@ Modelos explanatórios são representações simplificadas de um domínio que aj
 1 - *Exemplo descritivo de modelo explanatório*
 
 ```
-Um exemplo de **modelo explanatório** no contexto do DDD poderia ser em um domínio de **sistema bancário**,
+Um exemplo de **modelo explanatório** no contexto do DDD poderia ser em um domínio de sistema bancário,
 onde o objetivo é facilitar a comunicação entre desenvolvedores e especialistas no domínio (nesse caso, talvez gerentes de banco ou analistas financeiros).
 Vamos imaginar uma funcionalidade de **transferência de dinheiro entre contas**.
 
 ### Exemplo:
 
-**Domínio:** Sistema bancário
+Domínio: Sistema bancário
 
-**Modelo Explanatório: Transferência de Dinheiro**
+Modelo Explanatório: Transferência de Dinheiro
 
-1. **Entidade**: Conta Bancária
+1. Entidade: Conta Bancária
    - Cada conta tem um saldo.
    - O saldo pode aumentar ou diminuir dependendo de transações.
 
-2. **Entidade**: Cliente
+2. Entidade: Cliente
    - Um cliente é o proprietário de uma ou mais contas bancárias.
 
-3. **Ação (Serviço)**: Transferir Dinheiro
+3. Ação (Serviço): Transferir Dinheiro
    - Um cliente pode iniciar uma transferência de dinheiro de uma conta para outra.
    - Regras:
      - A conta de origem deve ter saldo suficiente.
