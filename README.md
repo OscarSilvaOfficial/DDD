@@ -58,4 +58,4 @@ A função de um diagrama é, comunicar bem a sua idéia, então se esse papel f
 
 #### *Documentos de design escritos*
 Documentação é extremamente importante para um projeto, mas ao mesmo tempo, extremamente desafiadora, principalemte pelo fato da manutenção do software torna-la fácilmente obsoleta.
-
+O Autor explica que na metodologia agil *Extreme Programming*, documentações são descartáveis, mas autor contrapõe isso, pois acredita que documentações de alto nível de design são **extremamente** importantes para o entendimento como um todo.
