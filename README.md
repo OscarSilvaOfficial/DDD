@@ -55,3 +55,8 @@ E em casos onde essa regra possua muitas variações, talvez seja mais interessa
 Nesse capítulo é enfatizado a questão da liguagem e como usar nomes de negócios no planejamento da arquitetura (em diagramas, fluxogramas, e documentações em geral) e código pode fortalecer o conhecimento a respeitodas regras que envolvem o negócio, e mais importante ainda, diminuir os ruídos de comunicação entre negócio e desenvolvimento. Essa linguágem unificapa, chama-se **ubiquitous language**, ou *linguágem unipresente*.
 
 ``NOTA: Nas experiências que tive, um dos problemas que gerava mais confusão, relamente era a questão da comunicação e entendimento do negócio, então fazer o esforço de colocar a linguagem do negócio no código, para que no longo prazo o time esteja mais acostumado, realmente parece fazer muito sentido.``
+
+#### *Documentos e diagramas*
+
+Nessa sessão, o autor indica que usa diagramas para exemplificar o raciocínio. Normalmente usado de forma muito simples, para que seja fácil e rápido de entender.
+A função de um diagrama é, comunicar bem a sua idéia, então se esse papel for cumprido, está de ótimo tamanho.
