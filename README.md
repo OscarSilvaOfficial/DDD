@@ -68,9 +68,9 @@ O Autor explica que na metodologia agil *Extreme Programming*, documentações s
 #### *Modelos explanatórios*
 Modelos explanatórios são representações simplificadas de um domínio que ajudam a esclarecer e comunicar aspectos complexos desse domínio de uma maneira mais fácil de entender. Eles não são apenas descrições detalhadas da realidade, mas são construídos para fornecer uma compreensão clara sobre o funcionamento de partes críticas de um sistema.
 
-```
-Exemplo descritivo de modelo explanatório
+1 - *Exemplo descritivo de modelo explanatório*
 
+```
 Um exemplo de **modelo explanatório** no contexto do DDD poderia ser em um domínio de **sistema bancário**, onde o objetivo é facilitar a comunicação entre desenvolvedores e especialistas no domínio (nesse caso, talvez gerentes de banco ou analistas financeiros). Vamos imaginar uma funcionalidade de **transferência de dinheiro entre contas**.
 
 ### Exemplo:
@@ -93,3 +93,7 @@ Um exemplo de **modelo explanatório** no contexto do DDD poderia ser em um dom�
      - Se a transferência for bem-sucedida, o saldo da conta de origem diminui e o da conta de destino aumenta.
      - A transação deve ser registrada no histórico da conta.
 ```
+
+2 - *Exemplo através de uma imagem de modelo explanatório*
+
+![image](https://github.com/user-attachments/assets/a67e4ac0-ebce-4f00-89af-cd226022a563)
