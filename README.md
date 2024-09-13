@@ -23,6 +23,8 @@ Além disso, é criticado as metodologias de engenharia de software antecessoras
 
 ``NOTA: Me pergunto se isso realmente é possível, como planejar e entender os domínios sem processos iniciais de entendimento?! O que por consequência, deveria gerar um bom número de documentações, e provavelmente, sem nenhuma entrega por um determinado tempo. Além disso acho difícil no processo ágil ATUAL, priorizar refatorações para manter o design de software no lugar de uma nova feature.``
 
+***
+
 ### Colocando o modelo de domínios em ação
 
 #### *O coração do software*
@@ -30,6 +32,8 @@ Na concepção do autor, para construir software, é necessário entender do neg
 
 ``NOTA: Isso realmente faz muito sentido, pensando em desenvolvedores mais experientes, que possam guiar os times tanto com a visão mais técnica, quanto com os conhecimentos de negócio, mas acho isso impraticável em ambientes sem equipes extremamente estruturadas.
 Além disso, acredito que seria necessário um time com turnover baixíssimo, para que o conhecimento técnico e de negócio não se perca, ou um tempo bem dedicado a documentar esse processo de aprendizado do negócio.``
+
+***
 
 ### Assimilando o conhecimento
 
@@ -63,3 +67,29 @@ O Autor explica que na metodologia agil *Extreme Programming*, documentações s
 
 #### *Modelos explanatórios*
 Modelos explanatórios são representações simplificadas de um domínio que ajudam a esclarecer e comunicar aspectos complexos desse domínio de uma maneira mais fácil de entender. Eles não são apenas descrições detalhadas da realidade, mas são construídos para fornecer uma compreensão clara sobre o funcionamento de partes críticas de um sistema.
+
+```
+Exemplo de modelo explanatório
+
+Um exemplo de **modelo explanatório** no contexto do DDD poderia ser em um domínio de **sistema bancário**, onde o objetivo é facilitar a comunicação entre desenvolvedores e especialistas no domínio (nesse caso, talvez gerentes de banco ou analistas financeiros). Vamos imaginar uma funcionalidade de **transferência de dinheiro entre contas**.
+
+### Exemplo:
+
+**Domínio:** Sistema bancário
+
+**Modelo Explanatório: Transferência de Dinheiro**
+
+1. **Entidade**: Conta Bancária
+   - Cada conta tem um saldo.
+   - O saldo pode aumentar ou diminuir dependendo de transações.
+
+2. **Entidade**: Cliente
+   - Um cliente é o proprietário de uma ou mais contas bancárias.
+
+3. **Ação (Serviço)**: Transferir Dinheiro
+   - Um cliente pode iniciar uma transferência de dinheiro de uma conta para outra.
+   - Regras:
+     - A conta de origem deve ter saldo suficiente.
+     - Se a transferência for bem-sucedida, o saldo da conta de origem diminui e o da conta de destino aumenta.
+     - A transação deve ser registrada no histórico da conta.
+```
