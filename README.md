@@ -99,3 +99,6 @@ Modelo Explanatório: Transferência de Dinheiro
 2 - *Exemplo através de uma imagem de modelo explanatório*
 
 ![image](https://github.com/user-attachments/assets/a67e4ac0-ebce-4f00-89af-cd226022a563)
+
+#### *Paradigmas da modelagem e assistência as ferramentas*
+O autor indica liguagens de programação que dão suporte a *orientação a objeto*
